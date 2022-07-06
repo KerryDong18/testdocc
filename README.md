@@ -1,5 +1,5 @@
 # testdocc.github.io
 
-DocC Link: [index.html].
+DocC Link: [TaMedia 文件說明].
 
-[index.html]: docs/index.html
+[TaMedia 文件說明]: https://kerrydong18.github.io/testdocc/documentation/tamediaadsframework/
